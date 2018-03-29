@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TemplateDefinition>
+  <Placeholders>
+    <Placeholder Name="MODULENAME"
+                 Description="Descriptive text for the module."
+                 SuggestionList="MyModule01, MyModule02, MyModule03" />
+    <Placeholder Name="PORT"
+                 TextToReplace="99999"
+                 Description="Descriptive text for the port." />
+  </Placeholders>
+
+  <Examples>
+    <Example Header="AssemblyName" Text="MyCompany.MODULENAME" />
+    <Example Header="Namespace" Text="MyCompany.MODULENAME" />
+    <Example Header="Service" Text="public class MyMODULENAMEService { /* ... */ }" />
+    <Example Header="URL" Text="http://localhost:99999/index.html" />
+  </Examples>
+</TemplateDefinition>
