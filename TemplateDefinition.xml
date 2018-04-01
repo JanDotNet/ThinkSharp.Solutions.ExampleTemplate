@@ -10,7 +10,7 @@
   </Placeholders>
 
   <Examples>
-    <Example Header="AssemblyName" Text="MyCompany.MODULENAME" />
+    <Example Header="AssemblyName" Text="MyCompany.MODULENAME.dll" />
     <Example Header="Namespace" Text="MyCompany.MODULENAME" />
     <Example Header="Service" Text="public class MyMODULENAMEService { /* ... */ }" />
     <Example Header="URL" Text="http://localhost:99999/index.html" />
