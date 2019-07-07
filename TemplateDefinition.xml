@@ -17,8 +17,8 @@
   </Examples>
   
   <Scripts>
-    <Script Name="TEST_BAT" Description="Test batch script" Path="test.bat" IsActive="True" />
-	<Script Name="TEST_PS1" Description="Test pawer shell script" Path="test.ps1" IsActive="True" />
-	<Script Name="TEST_NonActive" Description="Test Inactive Script" Path="test2.bat" IsActive="False" />
+    <Script Name="TEST_BAT" Description="Test batch script" Path="test.bat" IsActive="true" />
+	<Script Name="TEST_PS1" Description="Test pawer shell script" Path="test.ps1" IsActive="true" />
+	<Script Name="TEST_NonActive" Description="Test Inactive Script" Path="test2.bat" IsActive="false" />
   </Scripts>
 </TemplateDefinition>
