@@ -1,1 +1,1 @@
-copy test.bat ..\test.bat
+copy Scripts\test.bat test.bat

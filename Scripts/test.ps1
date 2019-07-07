@@ -1,1 +1,1 @@
-﻿copy test.ps1 ..\test2.ps1
+﻿copy Scripts\test.ps1 test.ps1
