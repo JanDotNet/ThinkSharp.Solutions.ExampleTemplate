@@ -18,7 +18,10 @@
   
   <Scripts>
     <Script Name="TEST_BAT" Description="Test batch script" Path="test.bat" IsActive="true" />
-	<Script Name="TEST_PS1" Description="Test pawer shell script" Path="test.ps1" IsActive="true" />
+	<Script Name="TEST_PS1" Description="Test power shell script" Path="test.ps1" IsActive="true" />
+	<Script Name="TEST_PY" Description="Test python script" Path="test.py" IsActive="true" />
+	<Script Name="TEST_FSX" Description="Test fsharp script" Path="test.fsx" IsActive="true" />
+	<Script Name="TEST_XYZ" Description="Test non existing script" Path="test.xyz" IsActive="true" />
 	<Script Name="TEST_NonActive" Description="Test Inactive Script" Path="test2.bat" IsActive="false" />
   </Scripts>
 </TemplateDefinition>
