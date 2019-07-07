@@ -1,0 +1,1 @@
+﻿copy test.ps1 ..\test2.ps1

@@ -1,0 +1,1 @@
+copy test.bat ..\test.bat

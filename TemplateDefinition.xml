@@ -15,4 +15,10 @@
     <Example Header="Service" Text="public class MyMODULENAMEService { /* ... */ }" />
     <Example Header="URL" Text="http://localhost:99999/index.html" />
   </Examples>
+  
+  <Scripts>
+    <Script Name="TEST_BAT" Description="Test batch script" Path="test.bat" IsActive="True" />
+	<Script Name="TEST_PS1" Description="Test pawer shell script" Path="test.ps1" IsActive="True" />
+	<Script Name="TEST_NonActive" Description="Test Inactive Script" Path="test2.bat" IsActive="False" />
+  </Scripts>
 </TemplateDefinition>
